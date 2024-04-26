@@ -95,7 +95,7 @@ studionhu.listen(
     console.log(`|------------------------------|`.red),
     console.log(`| PORT: ${PORT}                   |`),
     console.log(`================================`.red),
-    console.log(path.resolve(__dirname, '/views/index.html')),
+    // console.log(path.resolve(__dirname, '/views/index.html')),
 );
 /**
  * Thực hiện: PhamVanA
